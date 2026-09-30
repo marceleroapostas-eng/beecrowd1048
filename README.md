@@ -1,8 +1,8 @@
-\# Beecrowd 1048 - Aumento de Salário
+# Beecrowd 1048 - Aumento de Salário
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1048 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém um valor de ponto flutuante que representa o salário do funci
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta o novo salário, o valor do reajuste ganho e o percentual d
 
 
 
-\## Autor
+## Autor
 
 
 
